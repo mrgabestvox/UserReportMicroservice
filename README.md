@@ -19,3 +19,5 @@ payload = {
 The programs do not retrieve data from the microservice.  The microservice exists for the programs to report user activity
 to the developer(s).  It takes whatever reports the programs consider worthy of reporting and prints them to a file corresponding
 to the service, for later review by the devs.
+
+<img width="451" height="301" alt="UserReportMicroserviceUML" src="https://github.com/user-attachments/assets/5782b498-72b0-4d38-9d3f-4920329524d3" />
