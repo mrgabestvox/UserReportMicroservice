@@ -7,9 +7,13 @@ If such a file already exists, it writes to the end of it.  If it doesn't, it cr
 The microservice expects user, service, and report in the format:
 
 payload = {
+
     "user": "Player One",
+    
     "service": "Interactive Novel",
+    
     "report": "Completed Chapter Two with character Ezekiel."
+    
 }
 
 The programs do not retrieve data from the microservice.  The microservice exists for the programs to report user activity
